@@ -1,7 +1,7 @@
 # RAID 0 IMPLEMENTATION
 
 
-*RAID 0 is an excellent choice for scenarios requiring high performance and no data redundancy, such as temporary or non-critical data storage. However, due to its lack of redundancy, it’s essential to back up critical data regularly. *
+*RAID 0 is an excellent choice for scenarios requiring high performance and no data redundancy, such as temporary or non-critical data storage. However, due to its lack of redundancy, it’s essential to back up critical data regularly.*
 
 
 
